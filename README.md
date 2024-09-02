@@ -5,8 +5,9 @@ This is a basic template for creating a Discord bot using the `discord.py` libra
 ## Features
 
 - Basic bot setup with command handling
-- Event handling (e.g., on_ready, on_message)
+- Event handling (e.g., on_ready)
 - Example commands (`${prefix}ping`)
+- Slash commands
 - Easy to extend and customize
 
 ## Prerequisites
