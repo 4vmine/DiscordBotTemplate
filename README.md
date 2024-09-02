@@ -44,3 +44,6 @@ This is a basic template for creating a Discord bot using the `discord.py` libra
     - Go to the [Discord Developer Portal](https://discord.com/developers/applications) and select your application.
     - Under the "OAuth2" section, generate an invite link with the necessary permissions.
     - Use the invite link to add the bot to your server.
+
+
+**If you have any problem feel free to reach me in discord : 0x4v**
